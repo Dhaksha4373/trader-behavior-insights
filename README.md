@@ -32,3 +32,12 @@ Python, Pandas, Matplotlib, Google Colab
 
 Author:
 Dhakshayani Reddypalli
+
+
+
+## 📦 Large File Note
+
+The processed dataset (`processed_trader_sentiment.csv`) exceeds GitHub’s file size limits.
+
+It can be accessed here:
+https://drive.google.com/file/d/1n8ne2nbNRecO7Ab_YBiMzd-MjhShgrz7/view?usp=drive_link
